@@ -128,3 +128,16 @@ Core Gameplay or Simulation Mechanics
 **Relaibility and Availability**
 
 - The game should be available 99% of the time, with error handling for when the game does seem to randomly crash. If this does happen, then the game will load the last version of the game that has been saved. 
+
+### **Consideration of Social and Ethical Issues**
+
+- **Equity** - the characteristic of fairness.
+- **Accessibility** - the characteristic of being easily reachable or obtainable.
+
+**Accessibility** 
+
+My project will be accessible to people of all abilities, as there is no age limit, but the age recomendation is children above the age of 5, as there are some concepts and puzzles that might be difficult for younger children. My project will include accessibility features such as subtitles, alternative controls, visual adjustments and text-to-speech to aid those with disabilites or would prefer to include/change these features to their gameplay. 
+
+**Privacy and Data Protection**
+
+My project will collect user data such as save files, which will record their gameplay. For example, asdfasdfdasdfa
