@@ -19,7 +19,7 @@ you have been traveling the stars in search for a habitable planet and you found
 
 **Need:** To improve eye-hand coordination skills in young children aged 5 and above, as well as teaching them about hardships and improving their problem solving skills.
 
-**Problem statement:** Children aged 5 and above are often kids who find themselves still learning about what they want to achieve in their lifetime. However, as they go on their journey of self discovery, they find themselves struggling to learn new things, especially when hardships come their way. My action-dungeon course game requires players to go through different problems such as fighting monsters, navigating through mazes, protecting objectives and more. This will be done through controlling the character and navigating the game in order to solve different problems, and as they all get harder, the players can use previous knowledge from levels to unlock new levels and solve harder but similar problems, much like in real life. 
+**Problem statement:** Children aged 5 and above are    often kids who find themselves still learning about what they want to achieve in their lifetime. However, as they go on their journey of self discovery, they find themselves struggling to learn new things, especially when hardships come their way. My action-dungeon course game requires players to go through different problems such as fighting monsters, navigating through mazes, protecting objectives and more. This will be done through controlling the character and navigating the game in order to solve different problems, and as they all get harder, the players can use previous knowledge from levels to unlock new levels and solve harder but similar problems, much like in real life. 
 
 **Skill Development:** To develop the skills needed to make the game, I would complete this youtube tutorial: https://www.youtube.com/watch?v=2gABYM5M0ww
 
@@ -55,8 +55,8 @@ The game will not require online transmission???
 
 **User Interaction**
 
-- W and D - move the player left and right. 
-    - Pressing on the W key will result in the player moving left. Pressing on the D key will result in the player moving right. 
+- A and D - move the player left and right. 
+    - Pressing on the A key will result in the player moving left. Pressing on the D key will result in the player moving right. 
 - Arrow keys (left and right) - move the player left and right
     - Pressing on the left arrow key will result in the player moving left. Pressing on the right arrow key will result in the player moving right. 
 - Space bar - jump
