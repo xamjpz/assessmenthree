@@ -74,15 +74,23 @@ you have been traveling the stars in search for a habitable planet and you found
 - Right mouse click - interact with items or characters in game. 
     - By clicking on the right moue button, it will allow the player to interact with items or characters in game, such as opening different portals and picking up new items or weapons. 
 
-Core Gameplay or Simulation Mechanics
+**Core Gameplay or Simulation Mechanics**
 
-# ?
-
-- Game mechanics include:
-    - Movement, combat and interactions.
-- Step-by-step flow:
-    - Movement:
-        - If a button or key is pressed, then an action will take place???
+- Game mechanics:
+    - Movement 
+        1. Movement key is pressed
+        2. Game checks for requirements like collisions
+        3. Game updates the position of the player
+        4. Player moves
+    - combat
+        1. Left mouse button is pressed
+        2. Game checks for requirements like power ups and energy
+        3. Attack is executed
+        4. Game checks for enemy position
+        5. Game updates the monsters stastics 
+    - interactions
+        1. Right mouse button is pressed
+        2. Game checks for requirements like 9
 
 
 
