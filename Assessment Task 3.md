@@ -30,21 +30,20 @@ you have been traveling the stars in search for a habitable planet and you found
 - My project will require inputs from the player by pressing buttons. Such inputs include: WASD, arrow keys, space bar, shift, ctrl and mouse click buttons.
 - For example, user inputs will include directional keyboard keys for character movement, space bar for jump, W for jump, S for skill, shift for dash, crtl to grip on wall, left click mouse button for attack and right click mouse button to interact with items or characters in game. 
  
-Processing:
-# ?
+**Processing:**
 
-- Inputs: The system will process
-- Processing: The required processing that needs to take place include???
+- for movement, once inputs have been recieved, the game will check for collisions, calculate the new position of the player and update the game accordingly.
+- for combat, once inputs have been recieved, the game will check for a timer, calculate the position of the attack and then execute the attack.
+
 
 **Outputs:**
 
 - The player will experience outputs such as player character updates, item updates, monster updates, score updates,projectile updates, sound updates, messages and screen updates.
 - Example: The game will display player character health, position, stats and sounds, monster health, position, stats and sounds, item updates, game-over message and death sound.
 
-Transmission:
-# ?
+**Transmission:**
 
-The game will not require online transmission???
+- The game will not require online transmission as the data of the game is stored locally.
 
 **Storage:**
 
@@ -84,6 +83,8 @@ Core Gameplay or Simulation Mechanics
 - Step-by-step flow:
     - Movement:
         - If a button or key is pressed, then an action will take place???
+
+
 
 **Scoring and Feedback**
 
