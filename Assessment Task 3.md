@@ -89,10 +89,11 @@ you have been traveling the stars in search for a habitable planet and you found
         4. Game checks for enemy position
         5. Game updates the monsters stastics 
     - interactions
-        1. Right mouse button is pressed
-        2. Game checks for requirements like 9
-
-
+        1. Game checks for necessary sprites like chests
+        2. Game checks for requirements like collisions
+        2. Right mouse button is pressed
+        2. Game checks for requirements like player stastics
+        3. Game updates player statistics and/or position
 
 **Scoring and Feedback**
 
