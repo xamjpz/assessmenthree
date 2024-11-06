@@ -97,10 +97,19 @@ you have been traveling the stars in search for a habitable planet and you found
 
 **Scoring and Feedback**
 
-- Scoring features include:
+- Scoring and feedback features include:
     - Score updates, messages and able/unable or locked/unlocked actions or levels.
 - Triggers include:
     - Completing a level, killing certain monsters, taking damage, damaging monsters and using an item.
+
+
+- Scoring features include:
+    - Score updates, player statistics (health), monster statistics (healhth), levels.
+- Triggers: Killing monsters, taking damage, entering a portal, going to different levels.
+
+- Feedback features include:
+    - Messages, locked/unlocked, incorrect actions.
+- Triggers: Trying to go to a level that the player hasn't unlocked yet, using an item for the wrong objective, dying.
 
 **Level Progression and Simulation Stages** 
 
@@ -150,4 +159,18 @@ My project will be accessible to people of all abilities, as there is no age lim
 
 **Privacy and Data Protection**
 
-My project will collect user data such as save files, which will record their gameplay. For example, asdfasdfdasdfa
+My project will collect user data such as save files, which will record their gameplay. It will only be locally saved on the device.
+
+**Fairness and Representation**
+
+My project will avoid stereotypes and bias, as the game will not contain anything that is targetted at any specific group or organisation, and will avoid harmful stereotypes, due to the game solely based on an astronaut lost in space trying to find his way back to Earth.
+
+**Mental and Emotional Wellbeing**
+
+There is a small chance that my game will slightly affect users mental health, but will not severly impact anyone. The game is design so that the scenes will not be extremely graphic. For example, the death animation for monsters will be just a simple breaking down into an element like fire or ice. 
+
+**Cultural Sensitivities**
+
+There will be no content that is offensive to other cultures and the game will not contain anything to do with race. 
+
+## *PMI Chart**
