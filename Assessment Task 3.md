@@ -173,4 +173,65 @@ There is a small chance that my game will slightly affect users mental health, b
 
 There will be no content that is offensive to other cultures and the game will not contain anything to do with race. 
 
-## *PMI Chart**
+## **PMI Chart**
+
+![alt text](image.png)
+
+## **Flow Charts**
+
+**Movement**
+
+![alt text](image-1.png)
+
+**Dash**
+
+![alt text](image-2.png)
+
+**Skill**
+
+![alt text](image-3.png)
+
+**Wall Grip**
+
+![alt text](image-4.png)
+
+**Scoring (monsters killed)**
+
+![alt text](image-5.png)
+
+**Feedback**
+
+![alt text](image-6.png)
+
+**Saving and Loading Data**
+
+![alt text](image-7.png)
+
+**Level Progression (portals)**
+
+## **Pseudocode**
+
+Movement
+INPUT userInput
+	IF ‘A’ or ‘left arrow key’ pressed THEN
+		Move player left
+	ELSE IF ‘D’ or ‘right arrow key’ pressed THEN
+		Move player right
+	ELSE IF ‘Spacebar’ or ‘W’ pressed THEN
+		IF player touching ground THEN
+			Player jumps
+		ENDIF
+	ENDIF
+END Movement
+
+Dash
+INPUT userInput
+	IF ‘shift key’ pressed THEN
+		IF ‘’player has unlocked dash’ THEN
+			IF ‘player has enough energy’ THEN
+				IF ‘A’ or ‘left arrow key’ pressed THEN
+					Dash player left
+				ELSE IF ‘D’ or ‘right arrow key’ pressed THEN
+					Dash player 
+
+
