@@ -209,7 +209,11 @@ There will be no content that is offensive to other cultures and the game will n
 
 **Level Progression (portals)**
 
+![alt text](image-8.png)
+
 ## **Pseudocode**
+
+Pseudocode
 
 Movement
 INPUT userInput
@@ -223,15 +227,90 @@ INPUT userInput
 		ENDIF
 	ENDIF
 END Movement
-
 Dash
 INPUT userInput
 	IF ‘shift key’ pressed THEN
-		IF ‘’player has unlocked dash’ THEN
-			IF ‘player has enough energy’ THEN
+		IF player has unlocked dash THEN
+			IF player has enough energy THEN
 				IF ‘A’ or ‘left arrow key’ pressed THEN
 					Dash player left
 				ELSE IF ‘D’ or ‘right arrow key’ pressed THEN
 					Dash player 
+				ENDIF
+			ENDIF
+		ENDIF
+	ENDIF
+END Dash
+
+Wall grip
+INPUT userInput
+	IF ‘ctrl key’ pressed THEN
+		IF player has unlocked wall grip THEN
+			IF player has enough energy THEN
+				IF player is touching wall THEN
+					IF player is falling down THEN
+						Execute wall grip
+					ENDIF
+				ENDIF
+			ENDIF
+		ENDIF
+	ENDIF
+END WallGrip		
+Skill
+
+INPUT userInput
+	IF ‘S’ pressed THEN
+		IF player has a skill THEN
+			IF player has enough energy THEN
+				Execute skill
+			ENDIF
+		ENDIF
+	ENDIF
+END Skill
+
+Scoring 
+INPUT userInput
+	IF a monster is killed THEN
+		Increase monster skill score by 1
+	ELSE keep current monster score
+	ENDIF
+END Scoring
+
+Feedback
+INPUT userInput
+	IF player interacted with sprite THEN
+		IF player unlocked sprite interaction THEN
+			Positive response message from sprite
+		ELSE Negative response message from sprite
+		ENDIF
+	ENDIF
+END Feedback
+
+Saving 
+INPUT userInput
+	IF “esc key’ pressed THEN
+		Pause menu displayed
+	ELSE IF “save button pressed”
+		Save game progress
+	ENDIF
+END Saving
+
+Level Progression
+INPUT userInput
+	IF ‘right mouse button’ pressed THEN
+		IF player is in vicinity of a portal THEN
+			IF player has unlocked the next level THEN
+				IF player has completed all necessary objectives THEN
+					Execute portal
+				ENDIF
+			ENDIF
+		ENDIF
+	ENDIF
+END LevelProgression
+					
+**Storyboards**
+
+submitted on google doc
+
 
 
